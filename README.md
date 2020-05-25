@@ -2,4 +2,4 @@
 Basic go web app with CRUD operations...
 
 # Install 
-go install github.com/bmv126/go-app
+go get github.com/bmv126/go-app
